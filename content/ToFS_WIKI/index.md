@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-18T19:53:00.425-04:00","modified":"2025-10-18T21:18:14.209-04:00","cssclasses":""}
+{"publish":true,"created":"2025-10-18T19:53:00.425-04:00","modified":"2025-10-18T21:19:03.685-04:00","cssclasses":""}
 ---
 
 wheeeee ok hi
@@ -17,6 +17,8 @@ wheeeee ok hi
 | [[ToFS_WIKI/Characters/Craven\|Craven]] | Naga Duderino  | (placeholder text)                                | Merchant             | Kind, flighty. Loves kids, hates conflict  | Avoiding it / acrobatic  | Leo (Ralien on discord)   |
 | [[ToFS_WIKI/Characters/Garvus\|Garvus]] | Humanoid       | Tallish / blueish white / some non-human features | Fighter, Researcher  | (placeholder text)                         | Magic User               | David (Emilia on discord) |
 
+
+---
 
 # Non-Player Characters
 | Name | Species | Description | Group Role | Personality | Fighting Style | Played by |
